@@ -235,6 +235,9 @@ section  .topic{
 section .button{
   margin: 16px 0;
 }
+.resume {
+  color:black;
+}
 section .button button{
   outline: none;
   padding: 8px 16px;
